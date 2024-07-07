@@ -8,7 +8,7 @@
 }
 
 body {
-  background: linear-gradient(0.25turn, rgb(216, 106, 106), #dceb88, #f69d3c);
+  background: linear-gradient(0.25turn, rgb(245, 166, 166),rgb(75, 117, 179), #10bcc9);
 }
 
 input {
@@ -37,7 +37,7 @@ input {
 .suggestions-box {
   list-style-type: none;
   padding: 0;
-  background-color: #f5d1d1; /* Set background color for suggestions box */
+  background-color: #46b3f3; /* Set background color for suggestions box */
   border: 2px solid black;
   border-radius: 5px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
